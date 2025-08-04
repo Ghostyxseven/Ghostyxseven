@@ -1,0 +1,259 @@
+/* CSS adaptado do QUIZ1ADS e mesclado com a lógica de login/registro */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', 'Segoe UI', sans-serif;
+    background: #10498bb4; /* Novo background color */
+    color: #ebe3e3;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Inicia do topo como no novo design */
+    text-align: center;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.quiz-title {
+    font-size: 2.7em;
+    font-weight: 900;
+    color: #282828;
+    margin-top: 40px; /* Margem ajustada para o layout geral */
+    margin-bottom: 1em;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 0 #ceb8b8, 4px 4px 0 #bcaaaa;
+}
+.quiz-title span {
+    color: #0a0b0be2;
+    font-size: 1.1em;
+    text-shadow: 2px 2px 0 #b1aaaa, 4px 4px 0 #aeaab1;
+}
+
+.quiz-desc {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    margin-top: 1em;
+}
+.quiz-desc2 {
+    font-size: 1.9em;
+    font-weight: 400;
+    margin-bottom: 2em;
+    color: #fff;
+    opacity: 0.8;
+}
+
+.auth-container { /* Contêiner principal para os formulários de autenticação */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto; /* Altura ajustada pelo conteúdo */
+    position: relative;
+    z-index: 1;
+    margin-top: 20px; /* Espaçamento das descrições */
+}
+
+.auth-card { /* Estilo do card principal, combinando quiz-container e estilos anteriores */
+    background: #0c438397; /* Nova cor de fundo */
+    border-radius: 25px; /* Novo border-radius */
+    padding: 2em 1em 2em 1em; /* Novo padding */
+    box-shadow: 0 8px 32px rgba(0,0,0,0.25); /* Novo box-shadow */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2em; /* Novo gap */
+    max-width: 400px;
+    width: 90vw;
+    margin: 0 auto;
+    color: #fff; /* Cor do texto para o conteúdo do card */
+    position: relative; /* Para posicionamento absoluto dos formulários internos */
+    overflow: hidden; /* Para ocultar conteúdo transbordando durante a transição */
+    min-height: 480px; /* Garante que o card tenha altura suficiente para os formulários */
+}
+
+.auth-form { /* Classe para os formulários de login e registro */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute; /* Posiciona os formulários absolutamente dentro do auth-card */
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+    /* Garante que os formulários ocupem o espaço dentro do padding do auth-card */
+    top: 2em;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0 1em; /* Ajusta o padding interno para alinhamento */
+    box-sizing: border-box; /* Inclui padding na largura */
+    z-index: 1; /* Z-index padrão */
+}
+
+.auth-form.hidden {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-50%) translateY(20px); /* Desliza para baixo ao sair */
+    z-index: 0; /* Garante que esteja abaixo do formulário ativo */
+}
+
+.auth-form.active {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateX(-50%) translateY(0);
+    z-index: 2; /* Garante que esteja acima do formulário oculto */
+}
+
+.auth-form h2 { /* Estilo para os títulos Login/Register dentro dos formulários */
+    margin-bottom: 30px;
+    font-size: 2.2em;
+    color: #fff;
+    font-weight: 600;
+}
+
+.input-group { /* Mantido para alinhamento de ícones */
+    position: relative;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    width: 100%; /* Para ocupar a largura total do formulário */
+    max-width: 350px; /* Largura máxima dos inputs do novo design */
+}
+
+.input-group i {
+    position: absolute;
+    left: 15px;
+    color: #040404; /* Cor do ícone alterada para combinar com o texto do input */
+    font-size: 1.1em;
+    z-index: 2; /* Garante que o ícone esteja acima do fundo do input */
+}
+
+input[type="text"], input[type="password"] { /* Estilos combinados para inputs */
+    padding: 15px; /* Novo padding */
+    font-size: 2em; /* Novo font-size */
+    border-radius: 35px; /* Novo border-radius */
+    border: none;
+    width: 100%;
+    box-sizing: border-box;
+    background: #f7f7d4; /* Nova cor de fundo */
+    color: #040404; /* Nova cor do texto */
+    font-family: inherit;
+    margin-bottom: 0.9em; /* Nova margem */
+    outline: none;
+    text-align: center; /* Novo alinhamento do texto */
+    padding-left: 45px; /* Ajusta o padding para o ícone */
+}
+
+input::placeholder {
+    color: #555; /* Placeholder mais escuro para fundo claro */
+}
+
+.options { /* Mantido para "Remember me" e "Forgot password" */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 0.9em;
+    width: 100%;
+    max-width: 350px;
+}
+
+.options label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.options input[type="checkbox"] {
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+    accent-color: #A064FF;
+}
+
+.options a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.options a:hover {
+    color: #ddd;
+}
+
+.quiz-btn { /* Adaptado do quiz-btn */
+    padding: 16px 0;
+    font-size: 1.3em;
+    font-weight: 700;
+    border: none;
+    border-radius: 18px;
+    background: linear-gradient(90deg, #232840 0%, #735370ad 100%); /* Novo gradiente */
+    color: #0b0b0c; /* Nova cor do texto */
+    cursor: pointer;
+    width: 100%;
+    max-width: 350px; /* Nova largura máxima */
+    box-shadow: 0 6px 19px rgba(0,0,0,0.15); /* Novo box-shadow */
+    transition: background 0.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+}
+.quiz-btn:hover {
+    background: linear-gradient(90deg, #333229 0%, #4a4447 100%); /* Novo gradiente no hover */
+}
+
+.emoji {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+    margin-top: 1em;
+    filter: drop-shadow(0 2px 8px #191a19);
+}
+
+.switch-link {
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.switch-link a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.switch-link a:hover {
+    color: #ddd;
+}
+
+/* Responsividade do novo design */
+@media (max-width: 500px) {
+    .quiz-title { font-size: 1.8em; margin-top: 20px;} /* Ajustado para telas menores */
+    .quiz-title span { font-size: 1em; }
+    .quiz-desc { font-size: 1.2em; }
+    .quiz-desc2 { font-size: 1.1em; margin-bottom: 1em; }
+    .auth-card { padding: 1.5em 0.5em; }
+    input[type="text"], input[type="password"], .quiz-btn { font-size: 1.1em; max-width: 95vw; }
+    .input-group input { padding: 10px 10px 10px 40px; } /* Ajusta o padding para fonte menor */
+    .input-group i { left: 10px; }
+    .options { font-size: 0.8em; }
+    .switch-link { font-size: 0.8em; margin-top: 20px;}
+}
+
+/* Estilo para a caixa de mensagem personalizada */
+#messageBox {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: white;
+    z-index: 1000;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
