@@ -27,4 +27,4 @@ Este é um jogo de **perguntas e respostas** desenvolvido com HTML, CSS e TypeSc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-link:https://usermicael.online/
+
