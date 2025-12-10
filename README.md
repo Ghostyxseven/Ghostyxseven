@@ -1,10 +1,6 @@
 # 🌟 Micael Cardoso – Ghostyxseven
 ### 🚀 Estudante de ADS • Full-Stack Developer • IA • Cloud • Next.js
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostyxseven&theme=tokyonight)
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor apaixonado por tecnologia.  
@@ -75,30 +71,6 @@ Ferramentas criadas para:
 - OpenAI  
 - Vertex AI  
 - Python  
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-### 🔹 Detalhes do Perfil
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostyxseven&theme=tokyonight)
-
-### 🔹 Linguagens mais usadas (por commits)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghostyxseven&theme=tokyonight)
-
-### 🔹 Repositórios por Linguagem
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghostyxseven&theme=tokyonight)
-
-### 🔹 Horário mais produtivo
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostyxseven&theme=tokyonight)
-
-### 🔹 Estatísticas Gerais
-![Stats](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-### 🔹 Streak (dias seguidos de contribuição)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghostyxseven&theme=tokyonight&hide_border=true)
-
----
 
 ## 🎯 Minhas Metas
 
