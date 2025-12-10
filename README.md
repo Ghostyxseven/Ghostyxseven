@@ -4,7 +4,7 @@
 
 ### 🚀 Estudante de ADS • Full-Stack Developer • IA Enthusiast • Cloud Specialist
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghostyxseven&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghostyxseven&theme=dark&hide_border=true)]
 
 </div>
 
