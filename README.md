@@ -7,7 +7,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor apaixonado por tecnologia, criando aplicações modernas e eficientes utilizando:
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor apaixonado por tecnologia.  
+Atualmente construo aplicações modernas, rápidas e seguras utilizando:
 
 - **Next.js 14 + TypeScript**
 - **React**
@@ -16,9 +17,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedo
 - **SQLite, PostgreSQL, MariaDB**
 - **Infra:** Ubuntu Server, Docker, Google Cloud, PM2, Nginx
 - **Segurança:** 2FA, Fail2Ban, Cloudflare Tunnel, GPG
-- **IA aplicada:** análise de dados, automações e extração inteligente de documentos
+- **IA aplicada:** automações, análise de dados e extração inteligente de documentos
 
-Busco sempre aprender mais, evoluir e construir sistemas robustos, rápidos e seguros.
+Meu foco é evoluir como desenvolvedor Full-Stack, dominar IA e criar soluções reais e profissionais.
 
 ---
 
@@ -26,20 +27,20 @@ Busco sempre aprender mais, evoluir e construir sistemas robustos, rápidos e se
 
 ### 📧 Sistema de Gestão de E-mails
 Sistema corporativo multi-usuário com:
-- Integração Gmail OAuth2  
+- Integração com Gmail OAuth2  
 - Classificação automática por Estado/Município  
-- Dashboard profissional  
-- Auditoria e rastreamento de e-mails  
+- Dashboard e análise estatística  
+- Auditoria e rastreamento de envios  
 
 🔗 Repositório: *(adicione seu link)*
 
 ---
 
 ### 🧠 Agentes de IA / Automação Notarial
-Ferramentas avançadas para:
-- Leitura de documentos  
-- Extração estruturada de dados  
-- Organização automática  
+Ferramentas criadas para:
+- Leitura automática de documentos  
+- Extração estruturada de informações  
+- Organização inteligente  
 - Suporte a cartórios e análises técnicas  
 
 ---
@@ -77,24 +78,37 @@ Ferramentas avançadas para:
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-| Estatísticas | Streak |
-|--------------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Ghostyxseven&theme=tokyonight&hide_border=true) |
+### 🔹 Detalhes do Perfil
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghostyxseven&theme=tokyonight)
+
+### 🔹 Linguagens mais usadas (por commits)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghostyxseven&theme=tokyonight)
+
+### 🔹 Repositórios por Linguagem
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghostyxseven&theme=tokyonight)
+
+### 🔹 Horário mais produtivo
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghostyxseven&theme=tokyonight)
+
+### 🔹 Estatísticas Gerais
+![Stats](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+
+### 🔹 Streak (dias seguidos de contribuição)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghostyxseven&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🎯 Minhas Metas
 
-- Me especializar como desenvolvedor Full-Stack  
-- Aprender cada vez mais sobre IA e automação  
-- Construir sistemas profissionais, escaláveis e seguros  
-- Contribuir com projetos open-source  
+- Crescer como desenvolvedor Full-Stack  
+- Aprofundar conhecimentos em IA aplicada  
+- Criar projetos profissionais e escaláveis  
+- Contribuir com open-source  
 - Evoluir até me tornar Dev Senior  
 
-
-
 ---
+
 
 ## 🧡 Obrigado por visitar meu perfil!
