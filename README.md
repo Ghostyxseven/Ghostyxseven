@@ -76,18 +76,6 @@ Solução inteligente de automação para cartórios e escritórios notariais:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostyxseven&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 ## 🎯 Objetivos e Metas
 
 - 🚀 Crescer continuamente como desenvolvedor **Full-Stack**
