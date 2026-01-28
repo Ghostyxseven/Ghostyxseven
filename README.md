@@ -2,8 +2,6 @@
 
 ### 🚀 Estudante de ADS • Full-Stack Developer • IA Enthusiast • Cloud Specialis
 
-🌐 **Site oficial:** https://usermicael.online 
-
 ---
 
 ## 👨‍💻 Sobre mim
