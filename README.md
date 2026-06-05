@@ -1,52 +1,40 @@
-# 👋 Olá — Micael Cardoso (Ghostyxseven)
+# 👋 Olá, eu sou Micael Cardoso (Ghostyxseven)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Desenvolvedor Full Stack em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Desenvolvedor Full Stack em formação
 
-Sou focado em desenvolvimento web, automação e soluções com IA para resolver problemas reais.
-
----
+Tenho interesse em desenvolvimento web, automação e soluções com IA para resolver problemas reais. Estou sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor.
 
 ## 🚀 O que faço
 
-- Desenvolvimento de aplicações web com Next.js e TypeScript  
-- Criação de APIs e sistemas backend com Node.js  
-- Automação de processos com Python e Playwright  
-- Integração de APIs e sistemas  
+* Desenvolvimento web com React, Next.js e TypeScript
+* Criação de APIs e sistemas backend com Node.js
+* Automação de tarefas com Python e Playwright
+* Integração de APIs e serviços
 
----
+## 🧠 Projeto em destaque
 
-## 🧠 Projeto destaque
+**Automação para processamento de documentos**
 
-Sistema de automação para processamento de documentos:
+* Extração automática de dados
+* Preenchimento de sistemas
+* Redução de tarefas manuais
 
-- Extração de dados de documentos  
-- Automação de preenchimento em sistemas  
-- Redução de tarefas manuais  
-
-**Stack:** Python, Playwright, APIs
-
----
+**Tecnologias:** Python, Playwright e APIs
 
 ## 🛠️ Tecnologias
 
-**Front-end:** Next.js, React, TypeScript  
-**Back-end:** Node.js, Express  
-**Banco de dados:** PostgreSQL, SQLite  
-**Outros:** Automação, APIs, Git  
+**Front-end:** React, Next.js, TypeScript
+**Back-end:** Node.js, Express
+**Banco de dados:** PostgreSQL, SQLite
+**Outros:** Git, APIs e Automação
 
----
+## 🎯 Objetivo
 
-## 🎯 Objetivos
+Busco minha primeira oportunidade como desenvolvedor para ganhar experiência, aprender mais e contribuir com projetos reais.
 
-- Conseguir minha primeira oportunidade como desenvolvedor  
-- Evoluir em backend e automação  
-- Criar soluções simples e eficientes  
+## 📫 Contato
 
----
-
-## 🤝 Contato
-
-- GitHub: https://github.com/Ghostyxseven  
-- LinkedIn: Micael Cardoso  
-- E-mail: cardosomicaelreis245@gmail.com  
+* GitHub: https://github.com/Ghostyxseven
+* LinkedIn: [www.linkedin.com/in/micael-cardoso-reis-805711373](http://www.linkedin.com/in/micael-cardoso-reis-805711373)
+* E-mail: [cardosomicaelreis245@gmail.com](mailto:cardosomicaelreis245@gmail.com)
