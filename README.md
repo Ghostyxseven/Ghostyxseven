@@ -29,10 +29,6 @@ Tenho interesse em desenvolvimento web, automação e soluções com IA para res
 **Banco de dados:** PostgreSQL, SQLite
 **Outros:** Git, APIs e Automação
 
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como desenvolvedor para ganhar experiência, aprender mais e contribuir com projetos reais.
-
 ## 📫 Contato
 
 * GitHub: https://github.com/Ghostyxseven
