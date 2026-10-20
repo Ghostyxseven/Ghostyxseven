@@ -1,50 +1,32 @@
-# 👋 Olá, eu sou Micael Cardoso
+# 👨‍💻 Micael Cardoso
 
-**Estudante de Análise e Desenvolvimento de Sistemas (IFPI – Piripiri)** · Desenvolvedor Full Stack em formação
-Construo aplicações web e automações que resolvem problemas reais, com foco em **TypeScript, Node.js e IA**.
+**Desenvolvedor Backend / Full Stack Júnior**
 
-🔎 Aberto a oportunidades de **estágio** em desenvolvimento web / full stack.
+Estudante de Análise e Desenvolvimento de Sistemas no IFPI (Piripiri – PI). Desenvolvo APIs, aplicações web e automações de processos com Python, TypeScript e Node.js, criando soluções que eliminam tarefas manuais e reduzem erros em rotinas reais de trabalho.
 
----
-
-## 🚀 Projetos em destaque
-
-### 🌳📚 [IpêBook](https://github.com/Ghostyxseven/IPEBOOK_)
-Plataforma comunitária para **compra, venda, troca e doação de livros**, conectando pessoas pela localização.
-`TypeScript` · `React/Next.js` · `Node.js` · `PostgreSQL`
-
-### 🤖 Automação de processamento de documentos
-Extrai dados de documentos automaticamente e preenche sistemas, eliminando tarefas manuais repetitivas.
-`Python` · `Playwright` · `APIs`
-
-### 📬 [Gmail Automation Manager (n8n)](https://github.com/Ghostyxseven/gmail-automation-manager-n8n)
-Fluxo de automação para gerenciamento de e-mails com n8n.
-`n8n` · `Automação` · `Gmail API`
-
-### 🐾 [MeuPetDigital](https://github.com/Ghostyxseven/MeuPetDigital) · 🛡️ [ThemisTec](https://github.com/Ghostyxseven/ThemisTec)
-Aplicações em TypeScript desenvolvidas durante a graduação.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micael_Cardoso-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-cardoso-reis-805711373/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-usermicael.vercel.app-111827?logo=vercel&logoColor=white)](https://usermicael.vercel.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?logo=gmail&logoColor=white)](mailto:cardosomicaelreis245@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias
+## 🧰 Tecnologias
 
-| Área | Stack |
-|---|---|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
-| Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white) |
-| Banco de dados | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
-| Automação | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8ndotio&logoColor=white) |
-| Ferramentas | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) |
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,express,react,nextjs,postgres,sqlite,git,vercel)](https://skillicons.dev)
+
+**Automação:** Playwright · n8n · integração de APIs
 
 ---
 
-## 📊 GitHub
+## 🚀 Projetos
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostyxseven&layout=compact&theme=tokyonight)
+- **[IpêBook](https://github.com/Ghostyxseven/IPEBOOK_)** — plataforma comunitária para compra, venda, troca e doação de livros.
+- **Automação de documentos** — Python + Playwright para extrair dados de documentos e preencher sistemas internos automaticamente.
+- **[Gmail Automation Manager](https://github.com/Ghostyxseven/gmail-automation-manager-n8n)** — automação de e-mails com n8n.
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas
 
-🌐 [Portfólio](https://usermicael.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/micael-cardoso-reis-805711373) · ✉️ cardosomicaelreis245@gmail.com
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostyxseven&layout=compact&theme=tokyonight&hide_border=true)
