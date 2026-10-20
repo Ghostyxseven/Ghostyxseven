@@ -18,14 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFPI (Piripiri – PI). D
 
 ---
 
-## 🚀 Projetos
-
-- **[IpêBook](https://github.com/Ghostyxseven/IPEBOOK_)** — plataforma comunitária para compra, venda, troca e doação de livros.
-- **Automação de documentos** — Python + Playwright para extrair dados de documentos e preencher sistemas internos automaticamente.
-- **[Gmail Automation Manager](https://github.com/Ghostyxseven/gmail-automation-manager-n8n)** — automação de e-mails com n8n.
-
----
-
 ## 📊 Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight&hide_border=true)
