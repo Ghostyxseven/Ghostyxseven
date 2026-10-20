@@ -1,36 +1,50 @@
-# 👋 Olá, eu sou Micael Cardoso (Ghostyxseven)
+# 👋 Olá, eu sou Micael Cardoso
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Desenvolvedor Full Stack em formação
+**Estudante de Análise e Desenvolvimento de Sistemas (IFPI – Piripiri)** · Desenvolvedor Full Stack em formação
+Construo aplicações web e automações que resolvem problemas reais, com foco em **TypeScript, Node.js e IA**.
 
-Tenho interesse em desenvolvimento web, automação e soluções com IA para resolver problemas reais. Estou sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor.
+🔎 Aberto a oportunidades de **estágio** em desenvolvimento web / full stack.
 
-## 🚀 O que faço
+---
 
-* Desenvolvimento web com React, Next.js e TypeScript
-* Criação de APIs e sistemas backend com Node.js
-* Automação de tarefas com Python e Playwright
-* Integração de APIs e serviços
+## 🚀 Projetos em destaque
 
-## 🧠 Projeto em destaque
+### 🌳📚 [IpêBook](https://github.com/Ghostyxseven/IPEBOOK_)
+Plataforma comunitária para **compra, venda, troca e doação de livros**, conectando pessoas pela localização.
+`TypeScript` · `React/Next.js` · `Node.js` · `PostgreSQL`
 
-**Automação para processamento de documentos**
+### 🤖 Automação de processamento de documentos
+Extrai dados de documentos automaticamente e preenche sistemas, eliminando tarefas manuais repetitivas.
+`Python` · `Playwright` · `APIs`
 
-* Extração automática de dados
-* Preenchimento de sistemas
-* Redução de tarefas manuais
+### 📬 [Gmail Automation Manager (n8n)](https://github.com/Ghostyxseven/gmail-automation-manager-n8n)
+Fluxo de automação para gerenciamento de e-mails com n8n.
+`n8n` · `Automação` · `Gmail API`
 
-**Tecnologias:** Python, Playwright e APIs
+### 🐾 [MeuPetDigital](https://github.com/Ghostyxseven/MeuPetDigital) · 🛡️ [ThemisTec](https://github.com/Ghostyxseven/ThemisTec)
+Aplicações em TypeScript desenvolvidas durante a graduação.
+
+---
 
 ## 🛠️ Tecnologias
 
-**Front-end:** React, Next.js, TypeScript
-**Back-end:** Node.js, Express
-**Banco de dados:** PostgreSQL, SQLite
-**Outros:** Git, APIs e Automação
+| Área | Stack |
+|---|---|
+| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| Back-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white) |
+| Banco de dados | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
+| Automação | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8ndotio&logoColor=white) |
+| Ferramentas | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) |
+
+---
+
+## 📊 GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Ghostyxseven&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostyxseven&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Contato
 
-* GitHub: https://github.com/Ghostyxseven
-* LinkedIn: [www.linkedin.com/in/micael-cardoso-reis-805711373](http://www.linkedin.com/in/micael-cardoso-reis-805711373)
-* E-mail: [cardosomicaelreis245@gmail.com](mailto:cardosomicaelreis245@gmail.com)
+🌐 [Portfólio](https://usermicael.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/micael-cardoso-reis-805711373) · ✉️ cardosomicaelreis245@gmail.com
